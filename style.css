@@ -1,0 +1,36 @@
+.kukku,.kuttaayi,.jasbin
+{
+    border-radius: 20px;
+    background-color: black;
+}
+.kukku :hover,.kuttaayi :hover,.jasbin :hover
+{
+    cursor: pointer;
+    height: 120px;
+}
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: white ;
+    color: brown;
+
+}
+p
+{
+
+    color: orchid;
+    margin-left: 20px;
+}
+body
+{
+    background-color: aquamarine;
+
+}
+.score
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: xx-large;
+}
